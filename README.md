@@ -219,7 +219,7 @@ Install iverlog using commands:
  <img src="task4/terminal.png">
  <img src="task4/waveform.png">
  <img src="task4/xor.png">
-
+</details>
  <details>
 <summary>TASK5:Project implementation </summary>
 <img src="task5/circuit.png"/>
