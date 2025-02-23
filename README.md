@@ -23,8 +23,8 @@
 </details>
 <details>
   <summary>TASK3:Identification of RISCV instructions</summary>
-  <img src="object dump of primeornot.png"/>
-<title>RISC-V Instruction Set Documentation</title>
+  <img src="task3/object dump of primeornot.png"/>
+<summary># RISC-V Assembly Instructions Breakdown
 
 ## 1. auipc a5, 0xfffff
 - **Instruction Type:** U-type
