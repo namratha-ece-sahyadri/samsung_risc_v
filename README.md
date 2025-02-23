@@ -4,9 +4,9 @@
   <summary>TASK1:Development of C Based LAB</summary>
   <img src="task1/cprogram.png"/>
   <img src="task1/cprogram_output.png"/>
-  < img src="task1/riscv_deassembliied text.png"/>
-   < img src="https://github.com/namratha-ece-sahyadri/samsung_risc_v/blob/main/task1/riscv_instructions.png"/>
-   < img src=""/>
-   < img src=""/>
+  <img src="task1/riscv_deassembliied text.png"/>
+   < img src="task1/riscv_instructions.png"/>
+   < img src="task1/riscv_main section.png"/>
+   < img src="task1/riscv_open.png"/>
 </details>
 
