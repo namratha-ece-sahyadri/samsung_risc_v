@@ -1,5 +1,14 @@
 # samsung_risc_v
 **Samsung RISC-V Internship** – A hands-on exploration of **RISC-V architecture, toolchains, embedded systems, and industry applications**, featuring projects, research, and optimizations for real-world use cases. 
+# ABOUT ME
+Name: Namratha
+-
+College: Sahyadri College of Engineering and Management, Adyar, Mangaluru.
+-
+Email ID: prnamratha4@gmail.com
+-
+LinkedIn: [Namratha](https://www.linkedin.com/in/namratha-a037a9269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+-
 <details>
   <summary>TASK1:Development of C Based LAB</summary>
   <img src="task1/cprogram.png"/>
@@ -288,7 +297,7 @@ int main(void) {
 <details>
   <summary>TASK6:Project demonstration</summary>
  
-[![Watch the video](https://github.com/namratha-ece-sahyadri/samsung_risc_v/blob/main/task6/WhatsApp%20Video%202025-02-23%20at%2010.02.59.mp4)]
+[![Watch the video](https://github.com/namratha-ece-sahyadri/samsung_risc_v/blob/main/task6/WhatsApp%20Video%202025-02-23%20at%2010.02.59.mp4)
 
 </details>
 
