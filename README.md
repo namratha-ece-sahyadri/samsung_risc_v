@@ -204,3 +204,19 @@ Install iverlog using commands:
 4. To see the simulation waveform in GTKWave, enter the following command:
 
         gtkwave iiitb_rv32i.vcd
+   
+   <img src="task4/Add.png">
+ <img src="task4/Add1.png">
+ <img src="task4/And.png">
+ <img src="task4/Beq.png">
+ <img src="task4/Sub.png">
+ <img src="task4/bne.png">
+ <img src="task4/gtkwave_installation.png">
+ <img src="task4/instructions.png">
+ <img src="task4/iverilog installation.png">
+ <img src="task4/or.png">
+ <img src="task4/slt.png">
+ <img src="task4/terminal.png">
+ <img src="task4/waveform.png">
+ <img src="task4/xor.png">
+  
