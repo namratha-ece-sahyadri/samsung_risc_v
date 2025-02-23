@@ -5,8 +5,8 @@
   <img src="task1/cprogram.png"/>
   <img src="task1/cprogram_output.png"/>
   <img src="task1/riscv_deassembliied text.png"/>
-   < img src="task1/riscv_instructions.png"/>
-   < img src="task1/riscv_main section.png"/>
-   < img src="task1/riscv_open.png"/>
+   <img src="task1/riscv_instructions.png"/>
+   <img src="task1/riscv_main section.png"/>
+   <img src="task1/riscv_open.png"/>
 </details>
 
