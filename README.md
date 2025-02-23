@@ -288,7 +288,7 @@ int main(void) {
 <details>
   <summary>TASK6:Project demonstration</summary>
   Vedio :
-
+<link src="https://github.com/namratha-ece-sahyadri/samsung_risc_v/blob/main/task6/WhatsApp%20Video%202025-02-23%20at%2010.02.59.mp4"/>
 </details>
 
   
