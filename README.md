@@ -180,4 +180,27 @@
 | jal ra, 10348 | J-type | `0x254000ef` |
 | jal ra, 10330 | J-type | `0x240000ef` |
 | lw t0, 0(sp) | I-type | `0x00012283` |
+</details>
+<details>
+<summary>TASK4:Functional Simulation of RISC-V Core</summary>
+</summary>
+<br>
+Steps to perform functional simulation of RISCV
 
+1. Download Files:
+Download the code from the reference github repo.
+
+2. Set Up Simulation Environment:
+Install iverlog using commands:
+
+        sudo apt install iverilog
+        sudo apt install gtkwave
+
+3. To run and simulate the verilog code, enter the following command:
+
+        iverilog -o iiitb_rv32i iiitb_rv32i.v iiitb_rv32i_tb.v
+        ./iiitb_rv32i
+
+4. To see the simulation waveform in GTKWave, enter the following command:
+
+        gtkwave iiitb_rv32i.vcd
