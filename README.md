@@ -23,5 +23,5 @@
 </details>
 <details>
   <summary>TASK3:Identification of RISCV instructions</summary>
-  <img src="TASK3:Identification of RISCV instructions"/>
+  <img src="object dump of primeornot.png"/>
 </details>
