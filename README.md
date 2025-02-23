@@ -3,6 +3,10 @@
 <details>
   <summary>TASK1:Development of C Based LAB</summary>
   <img src="task1/cprogram.png"/>
-  <img src=""/>
+  <img src="task1/cprogram_output.png"/>
+  < img src=""/>
+   < img src=""/>
+   < img src=""/>
+   < img src=""/>
 </details>
 
